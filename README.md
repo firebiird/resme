@@ -1,0 +1,2 @@
+# resme
+Android Resource creator. 
